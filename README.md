@@ -3,8 +3,6 @@
 # Contents
 
 * README.md - This file
-* LICENSE.md - License
-* .gitignore - Ignore file for the project and remove unwanted items
 * 12_DICIEMBRE_2020.xlsx - Base file for the project
 * notebooks/1_clean_and_load.ipynb - Data Preparation Notebook
 * notebooks/2_exploracion.ipynb - Notebook covering basic data analysis
