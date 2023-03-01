@@ -1,0 +1,9 @@
+pandas
+matplotlib
+nltk
+nube de palabras
+aprender
+nltk
+genio
+entumecido
+espía
